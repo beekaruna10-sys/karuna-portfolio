@@ -1,0 +1,1 @@
+Place your real project screenshots and other images in this folder.
